@@ -1,6 +1,6 @@
 # RBSE
 
-**Real Binary Spectral Estimator(RBSE): A modified spectral estimator for 0-1 measurement matrix.**
+**Real Binary Spectral Estimator(RBSE): A modified spectral estimator of phase retrieval for 0-1 measurement matrix.**
 
 **The Phase Retrieval Problem**:  Recovering an unknown signal vector $x$ from observations $y_m=|\mathbf{a}\_m^H x|^2$ where $\mathbf{a}$ are given measurement vectors.
 
