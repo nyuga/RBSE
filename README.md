@@ -26,9 +26,9 @@ By the large number theorem, we have $D\_{ij} \approx x^{\*}\_{i} x\_{j} + x\_{j
 
 In the case that $\mathbf{x}^{T}\mathbf{x}$ is not zero, the following two real vectors are the eigenvectors of $\mathbf{x}\mathbf{x}^{H} + \mathbf{x}^{\*}\mathbf{x}^{T}$
 
-$$\mathbf{z}\_{1} = \frac{1}{2}\sqrt{\mathbf{x}^{T}\mathbf{x}}\mathbf{x}^{*} + \frac{1}{2}\sqrt{\mathbf{x}^{H}\mathbf{x}^{*}}\mathbf{x}$$
+$$\mathbf{z}\_{1} = \frac{1}{2}\sqrt{\mathbf{x}^{T}\mathbf{x}}\mathbf{x}^{\*} + \frac{1}{2}\sqrt{\mathbf{x}^{H}\mathbf{x}^{\*}}\mathbf{x}$$
 
-$$\mathbf{z}\_{2} = \frac{1}{2i}\sqrt{\mathbf{x}^{T}\mathbf{x}}\mathbf{x}^{*} - \frac{1}{2i}\sqrt{\mathbf{x}^{H}\mathbf{x}^{*}}\mathbf{x}$$
+$$\mathbf{z}\_{2} = \frac{1}{2i}\sqrt{\mathbf{x}^{T}\mathbf{x}}\mathbf{x}^{\*} - \frac{1}{2i}\sqrt{\mathbf{x}^{H}\mathbf{x}^{\*}}\mathbf{x}$$
 
 The corresponding eigenvalues are
 
