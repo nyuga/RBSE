@@ -1,4 +1,7 @@
 function [xrec,D] = initBinarySpectral(b,A)
+% Real Binary Spectral Estimator(RBSE)
+%   b:measurements ,b=|Ax|
+%   A:measurement matrix
 if ~isreal(A)
     A=real(A);
 end
